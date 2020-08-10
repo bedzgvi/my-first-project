@@ -29,13 +29,17 @@ nav{
     list-style: none;
 }
 .nav-block a{
+    font-family: "Roboto";
     text-decoration: none;
     color: blanchedalmond;
 }
 .logo{
+    font-family: "roboto-reguilar";
     flex: 3;
     color: blanchedalmond;
     position: relative;
+    font-size: 21px;
+    
 }
 .logo::after{
     content: "";
